@@ -28,13 +28,13 @@ Visualized age group distribution for unique users and trips.
 Examined the usage patterns and revenue contributions by different payment methods.
 
 Key Insights
-Peak Hours: High demand during morning (5-9 AM) and evening (4-9 PM) peak hours on weekdays.
-Corridor Efficiency: Certain corridors have significantly higher usage, indicating potential for optimizing less-used routes.
-Stop Analysis: Busiest stops are key revenue generators and require targeted resource allocation.
-Demographics: Balanced gender distribution with a higher proportion of users aged 26-35 and 36-50. Different banks show varying levels of usage and revenue contribution.
+*Peak Hours: High demand during morning (5-9 AM) and evening (4-9 PM) peak hours on weekdays.
+*Corridor Efficiency: Certain corridors have significantly higher usage, indicating potential for optimizing less-used routes.
+*Stop Analysis: Busiest stops are key revenue generators and require targeted resource allocation.
+*Demographics: Balanced gender distribution with a higher proportion of users aged 26-35 and 36-50. Different banks show varying levels of usage and revenue contribution.
 
 Recommendations
-Optimize High-Demand Corridors & Stops: Allocate and more resources and shift resources to improve services at high-demand stops and corridors to maximize revenue and minize fixed costs.
-Dynamic Pricing: Implement dynamic pricing strategies to manage demand and maximize revenue.
-Enhance Passenger Experience: Provide real-time updates and improve amenities at key stops to enhance customer satisfaction.
-Additional Revenues: Implement additional revenue streams at busy stops to maximize revenue.
+*Optimize High-Demand Corridors & Stops: Allocate and more resources and shift resources to improve services at high-demand stops and corridors to maximize revenue and minize fixed costs.
+*Dynamic Pricing: Implement dynamic pricing strategies to manage demand and maximize revenue.
+*Enhance Passenger Experience: Provide real-time updates and improve amenities at key stops to enhance customer satisfaction.
+*Additional Revenues: Implement additional revenue streams at busy stops to maximize revenue.
